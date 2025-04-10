@@ -28,13 +28,67 @@
 |discount|折扣|
 |qualification \ certificate|资格 \ 证明|
 |supervisor|监督人；指导者；主管人|
-|sous chef||
-|stock||
-|sort out||
-|deliveries||
-|fairly||
-|get the hand of it||
+|sous chef|副厨师长|
+|stock|库存；股票|
+|sort out|整理|
+|deliveries|交付，递送|
+|fairly|相当地；简直，竟然；公正的|
+|get the hang of something|学习如何做某事（难事）|
 ### 错误原因
 2. 没听到 + 不认识 discount
 3. 只听到pay，没听到taxi。`the company will pay for you to get a taxi home`
-8. 前后干扰句多，先介绍自己上份工作，`nine pounds fifty per hour`，回答一开始给你`nine pounds seventenn-five` goes to `eleven pounds tweenty-five`
+8. 前后干扰句多，先介绍自己上份工作，`nine pounds fifty per hour`，回答一开始给你`nine pounds seventeen-five` goes to `eleven pounds tweenty-five`
+10. `once a month` & `every four weeks`
+
+# 剑雅18 Test 2-Section 2
+
+> Date April 10, 2025 23:39
+
+|题目总数|正确题数|错误题数|未完成题数|正确率|平台平均正确率|
+|---|---|---|---|---|---|
+|10	|5	|5	|0	|5/10|6/10|
+
+|题号|	我的答案|	正确答案|
+|---|---|---|
+|11|	C	|BE|
+12	|E|	BE|
+|13|	D|	BC|
+|14|	A|	BC|
+|15|	B	|G|
+|16	|C|	C|
+|17	|D|	D|
+|18	|F	|B|
+|19	|H|	H|
+|20|	A|	A|
+
+## 精听改错
+### 单词/同义替换
+|单词|意思/替换|
+|---|---|
+|commute|通勤|
+|drawback|缺点|
+|slope|斜坡|
+|get out|离开（车，建筑等）|
+|layout|布局|
+|blend|混合|
+|blend in|与…融为一体；与…协调；|
+|||
+|go right up|向上走|
+|branch off|分岔|
+
+
+
+### 错误原因
+#### 多选题
+11-12. B：干扰选项，虽然说去机场便利，但不是主要原因。下文接着说有医院和学校
+
+13-14. D: `the wide variety of accommodation types and prices`未提及低价格
+
+A：`we’ll look at that`表示将来会考虑，即目前还没有，故排除A选项。
+
+D:`people of all ages can live together happily` means好的邻里关系，这是否有点……
+
+#### 地图题
+
+很难，建议在清醒的时候再听一遍
+- 4/11 
