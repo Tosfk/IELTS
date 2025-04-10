@@ -1,0 +1,40 @@
+# 剑雅18 Test 2-Section 1
+> Date April 10, 2025
+
+|题目总数|正确题数|错误题数|未完成题数|正确率|平台平均正确率|
+|---|---|---|---|---|---|
+|10	|5	|4	|1	|5/10|7/10|
+
+
+|题号|	我的答案|	正确答案|
+|---|---|---|
+1|	training	|training
+2|	working	|discount
+3|	payment	|taxi
+4|	service	|service
+5|	English	|English
+6|	Wivenhoe	|Wivenhoe
+7|	equipment	|equipment
+8	|17|	9.75
+9|	--	|deliveries
+10|	monday|	Sunday
+
+## 精听改错
+### 单词/同义替换
+|单词|意思/替换|
+|---|---|
+|reputation|名誉|
+|temporary|暂时的|
+|discount|折扣|
+|qualification \ certificate|资格 \ 证明|
+|supervisor|监督人；指导者；主管人|
+|sous chef||
+|stock||
+|sort out||
+|deliveries||
+|fairly||
+|get the hand of it||
+### 错误原因
+2. 没听到 + 不认识 discount
+3. 只听到pay，没听到taxi。`the company will pay for you to get a taxi home`
+8. 前后干扰句多，先介绍自己上份工作，`nine pounds fifty per hour`，回答一开始给你`nine pounds seventenn-five` goes to `eleven pounds tweenty-five`
