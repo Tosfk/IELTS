@@ -1,3 +1,35 @@
+
+- [Session 1](#session-1)
+  - [1. Facts about IELTS](#1-facts-about-ielts)
+    - [Pop Quiz 随堂测验](#pop-quiz-随堂测验)
+    - [Fact #1 Two Test Types](#fact-1-two-test-types)
+    - [Fact #2 Two Choice](#fact-2-two-choice)
+    - [Fact #3 Speaking Exam - Different Day](#fact-3-speaking-exam---different-day)
+    - [Fact #4 No Disturbance（干扰）](#fact-4-no-disturbance干扰)
+    - [Fact #5 Strict“Must Attend” Policy](#fact-5-strictmust-attend-policy)
+    - [Fact #6 Many Rules](#fact-6-many-rules)
+  - [2. Speaking Exam Process](#2-speaking-exam-process)
+      - [Before Part1 begins:](#before-part1-begins)
+      - [Introductory Frame: （介绍框架）](#introductory-frame-介绍框架)
+      - [The Process](#the-process)
+        - [Part1](#part1)
+        - [Part2](#part2)
+        - [Part 3](#part-3)
+  - [3. Grading Criteria](#3-grading-criteria)
+    - [3.1 Fluency and Coherence](#31-fluency-and-coherence)
+      - [“4-3-2 法则”](#4-3-2-法则)
+    - [3.2 Pronunciation](#32-pronunciation)
+    - [3.3 Lexical Resources](#33-lexical-resources)
+      - [Less common words](#less-common-words)
+      - [Paraphrase](#paraphrase)
+      - [Topic-related vocab](#topic-related-vocab)
+    - [3.4 Style and Collocation](#34-style-and-collocation)
+      - [Precise Meaning](#precise-meaning)
+      - [Grammatical Range and Accuracy](#grammatical-range-and-accuracy)
+      - [Complex Structure](#complex-structure)
+  - [总结](#总结)
+
+
 # Session 1
 
 1. Facts about IELTS
@@ -192,8 +224,8 @@ P12 定档 P3 决定分数
 >Lexical Resources - 词汇  不用太复杂的  
 >Grammatical Rangeand Accuracy - 语法范围和准确性 -不需要太复杂
 
-##### Fluency and Coherence
-###### “4-3-2 法则”
+### 3.1 Fluency and Coherence
+#### “4-3-2 法则”
 1. 第一遍慢吞吞的说四分钟
 2. 纠正内容练好以后，缩减到三分钟，去掉卡的时间，可能一卡就是十几秒
 3. 复盘以后，最后一遍两分钟，精简语言
@@ -209,16 +241,19 @@ P12 定档 P3 决定分数
 **Dos**
 - Speak at length
 - Use connectives and discourse markers flexibly
-- Develop topic well
-**Don'ts**
+- Develop topic well  
+
+**Don'ts**  
 - Repeat and self-correct frequently
 - Have a lot of languag-related hesitation
 - Over-use connectives and discourse markers
 - Use connectives and discourse markers wrong
 
->Do you like eating fish?
->- Yes, of course, l love it.
->- No, l don't, cause it smells, and there are way too many bones.
+<br />
+
+> Q: Do you like eating fish?
+- Yes, of course, l love it.
+- No, l don't, cause it smells, and there are way too many bones.
 
 以上回答都不是很好，未主动提供信息
 
@@ -236,64 +271,63 @@ ended up
 - uses a range of <font color="#ff0000">connectives and discourse markers</font> flexibly
 - <font color="#ff0000">some</font> hesitation, repetition, or self-correction
 
-##### Pronunciation
-这两点短期内很难改变
-can still get a band9 with an accent
+### 3.2 Pronunciation
+这两点短期内很难改变  
+can still get a band9 with an accent  
 being intelligible and clear is the most important
 
 - must pronounce vowels right  元音必须发好 wake week
 - can be slow yet also fluent
 - intonation matters a lot 语调
 - practice word stress and sentence stress 重音 
-- pause where needed (clear meaning）合理停顿
+- pause where needed (clear meaning) 合理停顿
 
-看到P4
-##### Lexical Resources
-less common and idiomatic word  地道的生活化的词汇for母语者，习语
-seffective paraphrase - 绕开不会的词
-topic-related vocab - 
-style and collocation - 风格和固定搭配，保持固定的风格，太阳晒-hot sun
+### 3.3 Lexical Resources
+less common and idiomatic word  地道的生活化的词汇for母语者，习语  
+seffective paraphrase - 绕开不会的词  
+topic-related vocab -   
+style and collocation - 风格和固定搭配，保持固定的风格，太阳晒-hot sun  
 
-precise meaning(Band7 and up)
-
-不要用——大词 难词 偏词
+不要用——大词 难词 偏词  
 affection 喜爱（爱，疼爱），影响
 
-###### Less common words
+#### Less common words
 
-Shanghai is a very big city.
+Shanghai is a very big city.  
 Shanghai is a **metropolis**.
 
-I want to become famous on Tik Tok.
+I want to become famous on Tik Tok.  
 I want to become an **influencer** on Tik Tok.
 
-He fell asleep during class because it was so boring
+He fell asleep during class because it was so boring  
 He **nodded off** in class because it was so **mind-numbing**.
 > nod off  打瞌睡，无意中睡着
 
-I will never buy that.
+<br />
+
+I will never buy that.  
 I'll buy that **when pigs can fly**.
 
-Don't be unhappy about things that have already happened.
+Don't be unhappy about things that have already happened.  
 **Don't cry over spilt milk.**
 
-OMG, this is so spicy.
+OMG, this is so spicy.  
 OMG, **my mouth is on fire**.
 
-###### Paraphrase
+#### Paraphrase
 
-| fire extinguisher       | put out the fire           |
+|原词|解释|
 | ----------------------- | -------------------------- |
+| fire extinguisher       | put out the fire           |
 | pain killers            | medicine to take away pain |
 | I really like basketbal | I love this sport          |
 
-
-###### Topic-related vocab
-Q: What's your favorite animal?
+#### Topic-related vocab
+Q: What's your favorite animal?  
 A: Well, l love cats, they're my favorite, they're so cute and **cuddly**. I love their pink little **paw pads**, and how they don't lettheir **claws** out when they know you mean no harm. l also love how they **rub against your legs**, **purring** like a motorboat and begging youto **pet** them. My heart melts.
 
 
-###### Style and Collocation
+### 3.4 Style and Collocation
 
 | 错误表达         | 正确表达             |
 | ------------ | ---------------- |
@@ -301,21 +335,21 @@ A: Well, l love cats, they're my favorite, they're so cute and **cuddly**. I lov
 | old customer | regular customer |
 | big sun      | harsh sun        |
 
-###### Precise Meaning
-They took him to the hospital **very quickly**.
+#### Precise Meaning
+They took him to the hospital **very quickly**.  
 They <font color="#ff0000">rushed</font> him to the hospital.
 
-There are **many things** that he **doesn't like** to eat.
+There are **many things** that he **doesn't like** to eat.  
 He is a really <font color="#ff0000">picky </font>eater.
 
-My cat likes to **eat some grass**.
+My cat likes to **eat some grass**.  
 My cat likes to <font color="#ff0000">chew</font> on <font color="#ff0000">blades of grass</font>.
 
-##### Grammatical Range and Accuracy
+#### Grammatical Range and Accuracy
 
-I love buying bags, <font color="#ff0000">and</font> l look at luxury bags every time l go to the mall, <font color="#ff0000">but</font> l don't make enough money to afford them, <font color="#ff0000">so</font> for now, l can only window shop.
+I love buying bags, <font color="#ff0000">and</font> l look at luxury bags every time l go to the mall, <font color="#ff0000">but</font> l don't make enough money to afford them, <font color="#ff0000">so</font> for now, l can only window shop.  
 
-I absolutely adore buying bags, which is the most significant reason behind my action of looking at bags from brands of luxury whenever l travel to the mall. However, it is a pity that my savings are not so sufficient as to afford such items, which leads to the result that for the time being, l can only window shop. （太刻意太书面）
+I absolutely adore buying bags, which is the most significant reason behind my action of looking at bags from brands of luxury whenever l travel to the mall. However, it is a pity that my savings are not so sufficient as to afford such items, which leads to the result that for the time being, l can only window shop. （太刻意太书面）  
 
 - When was the last time you went to a supermarkrt?
 - The last time I went a supermarket was yesterday afternoon. I went with my sister. We went to a Sam's Club. We went to get some snacks for a party. We took the bus there.
@@ -327,7 +361,7 @@ I absolutely adore buying bags, which is the most significant reason behind my a
 一个句子，多个信息点
 
 
-##### Complex Structure
+#### Complex Structure
 ![[Pasted image 20250329135616.png]]
 
 1. 递进关系，in fact
@@ -344,6 +378,7 @@ I absolutely adore buying bags, which is the most significant reason behind my a
 比说从句还要难，要求思路清晰
 
 
+## 总结
 so, 总结一下，要想拿高分
 - use a range of complex structures flexibly
 - frequently produces error-free sentences

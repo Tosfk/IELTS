@@ -1,3 +1,29 @@
+
+- [Session 2](#session-2)
+- [1. Part 1 : Question Style](#1-part-1--question-style)
+  - [1.1 Two Question Styles](#11-two-question-styles)
+  - [1.2 Four Question Types](#12-four-question-types)
+    - [Yes / No Question](#yes--no-question)
+    - [Wh- Question](#wh--question)
+    - [Choice Question](#choice-question)
+    - [Hypothetical Question](#hypothetical-question)
+  - [1.3 Four Main Topic](#13-four-main-topic)
+    - [People](#people)
+    - [Places](#places)
+    - [Objects](#objects)
+    - [Events](#events)
+  - [3 Mandatory Frames （必考话题](#3-mandatory-frames-必考话题)
+      - [Work /study](#work-study)
+      - [Where you live now](#where-you-live-now)
+      - [Hometown](#hometown)
+- [2. Basis Answer Structure](#2-basis-answer-structure)
+  - [The TS + SD Principle](#the-ts--sd-principle)
+    - [Why use this?](#why-use-this)
+    - [Topic Sentence](#topic-sentence)
+  - [Example of ineffective communication](#example-of-ineffective-communication)
+- [3. Brainstorming](#3-brainstorming)
+
+
 # Session 2
 Part 1 Intro, Brainstorming, Ideas
 
@@ -8,7 +34,7 @@ Part 1 Intro, Brainstorming, Ideas
 4. Linking Words
 5. Basic Requirements
 
-# 1. Part 1 Question Style 
+# 1. Part 1 : Question Style 
  Content
  分类——
  1. 2 Question Styles
@@ -16,27 +42,27 @@ Part 1 Intro, Brainstorming, Ideas
  3. 4 Main Topics
  4. 3 Mandatory Frames
 
-## 2 Question Styles
+## 1.1 Two Question Styles
 1. Question Types
 2. Topic
 
-## 4 Question Types
+## 1.2 Four Question Types
 1. Yes / No Question  - 一般疑问句
 2. Wh- Question  - 特殊疑问句
 3. Choice Question  - 选择疑问句
 4. Hypothetical Question  - 假设疑问句
 
-#### Yes / No Question
+### Yes / No Question
 
-![[Pasted image 20250329161501.png]]
-不要着急作背景介绍，先回答yesorno
+![[Pasted image 20250329161501.png]]  
+不要着急作背景介绍，先回答yes/no
 
-#### Wh- Question
+### Wh- Question
 ![[Pasted image 20250329161902.png]]
 
 不需要重复问题
 
-#### Choice Question
+### Choice Question
 ![[Pasted image 20250329162129.png]]
 
 有三种回答——
@@ -44,22 +70,22 @@ Part 1 Intro, Brainstorming, Ideas
 2. 若两个都不喜欢，neither
 3. both
 
-#### Hypothetical Question
-![[Pasted image 20250329162318.png]]
-可以不不那么肯定，没思考
+### Hypothetical Question
+![[Pasted image 20250329162318.png]]  
+可以不不那么肯定，没思考  
 I don't konw anything about my future.
 
 设计虚拟语气和将来时的使用
 
 
 
-## 4 Main Topic
+## 1.3 Four Main Topic
 1. People
 2. Places
 3. Objects
 4. Events
 
-##### People
+### People
 
 **friends：**
 Do you have any good friends who live far away?  
@@ -71,7 +97,7 @@ Who is your favorite celebrity?
 Have you seen a celebrity in real life?  
 Do you want to be a celebrity?
 
-##### Places
+### Places
 
 **the countryside**
 Have you ever lived in the countryside?
@@ -83,7 +109,7 @@ Do you like visiting museums?
 How often do you visit museums?
 Are there any museums near where you live?
 
-##### Objects
+### Objects
 
 **books**
 How often do you read?
@@ -95,7 +121,7 @@ Have you ever planted a tree?
 What kind of trees do people plant in China?
 Do you know anything about planting trees?
 
-##### Events
+### Events
 **concentrating**
 When do you really need to concentrate?
 What do you do to help you concentrate?
