@@ -362,7 +362,8 @@ I absolutely adore buying bags, which is the most significant reason behind my a
 
 
 #### Complex Structure
-![[Pasted image 20250329135616.png]]
+
+![](https://raw.githubusercontent.com/Tosfk/Image/main/Pasted%20image%2020250329135616.png)
 
 1. 递进关系，in fact
 2. 同一件事情， And
