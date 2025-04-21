@@ -86,8 +86,6 @@ I don't konw anything about my future.
 
 设计虚拟语气和将来时的使用
 
-
-
 ## 1.3 Four Main Topic
 1. People
 2. Places
@@ -296,7 +294,7 @@ reason：
 小时候作业多  
 长大了也没什么兴趣了  
 
-opinion： 
+opinion：   
 boring  
 
 prediction： 
@@ -363,9 +361,12 @@ another...|in spite of ...|
 2. about 3 - 5 sentences
 3. some answers should be long 
    - reasons
-   - preferences -说一个，也可以说另一个
+   - preferences -说一个，也可以说另一个- comparison两边说
    - experiences -yes会讲的多一点，no讲的可以短一点
    - descriptions
-   - importance
+   - importance 
 4. other don't need to be
-5. be natural, don't talk **too** much
+5. be natural, don't talk **too** much 
+
+DON'T make this mistake:
+
