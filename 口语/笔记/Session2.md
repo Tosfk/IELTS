@@ -29,6 +29,11 @@
 - [5. Linking words and Conjunctions](#5-linking-words-and-conjunctions)
 - [6. Basic Requirement](#6-basic-requirement)
   - [Control length of answer](#control-length-of-answer)
+  - [有些问题一定要先回答yes/no](#有些问题一定要先回答yesno)
+  - [基础的语法必须正确](#基础的语法必须正确)
+  - [Basic grammar](#basic-grammar)
+  - [连接词必须正确](#连接词必须正确)
+  - [自己练习技巧 Tips](#自己练习技巧-tips)
 
 
 # Session 2
@@ -368,5 +373,63 @@ another...|in spite of ...|
 4. other don't need to be
 5. be natural, don't talk **too** much 
 
-DON'T make this mistake:
+## 有些问题一定要先回答yes/no
+不要兜圈子，最后再说
+练习：
 
+**Are you a student or do you have a job?**
+a. l'm in school.
+b. Yes, i'm a student.
+c. No, l don't have a job.
+选择疑问句，选a
+
+
+**What do you do on rainy days?**
+a. l can't go out.
+b. Yes, l do.
+c. l usually stay at home.
+C，不是一般疑问句，不要嘴瓢说yes！
+
+## 基础的语法必须正确
+p1 兜底，摸索你的语言功底，注重basic grammer 
+so must be correct
+1. 第三人称单数
+2. 一般过去时(常见不规则变形)
+	- 语法错误数的清才能上7，lose lost 变错就上不了7
+3. 完成时
+4. 被动语态
+5. 虚拟语气
+
+## Basic grammar
+1. How much money do you usually spend on shoes?  
+	- 一般现在时 & 第三人称单数
+2. Have you ever lost your way?  
+	- 一般过去时 不规则变形
+3. ls doing sports a good way to relax?  
+	- 一般现在时第三人称单数 被动语态
+4. What would you do to relax?
+	- 虚拟语气
+
+## 连接词必须正确
+1. **Although** l don't like sandwiches, **but** l still ate it because my friend made it for me herself.
+	- although but 二选一
+2. Everyone was invited to the party **besides** me.
+	- except
+3. - Come on, let's go, we're going to be late.
+- **In fact**, I'm not going.
+	- in fact 更多表示递进
+
+## 自己练习技巧 Tips
+1. Record yourself.   自己练习时录音
+2. Listen and note your mistakes.  
+3. Practice the structure 5-10 times with new sentences. 
+
+听自己的录音印象更深了，容易嘴瓢。
+造十个句子来巩固
+
+eg. Last Sunday, l meeted my best friend for lunch.
+That's when l met her
+They met for the first time
+I met my classmate for coffee
+ met him this morning
+...
