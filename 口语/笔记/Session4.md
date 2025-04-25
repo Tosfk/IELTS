@@ -23,6 +23,8 @@
     - [Step for Brainstorming](#step-for-brainstorming)
 - [4. Useful Frameworks](#4-useful-frameworks)
 - [5. Taking Notes](#5-taking-notes)
+  - [Example #1](#example-1-1)
+  - [Example #2](#example-2-1)
 
 
 Agenda
@@ -232,4 +234,109 @@ feel 用万能观点
 第一个方法更好做，除非题刷了很多了有固定套路。这需要创造很多小问题，比较费脑。第一个方法不需要创作太多问题，只需要想三个大方向就够了。
 
 # 4. Useful Frameworks
+如何详细介绍？ ——脑子一紧张没有思路的时候，使用**框架**  
+P2大部分话题卡：  
+- Who this person is
+- What this object /event is
+- When you do/did sth
+- Where you do /did sth
+- How you do /did sth
+- How you feel about sth/sb
+
+- Who this person is
+  - appearance 外貌
+  - personality 性格
+    - 害羞 hide in his shell
+  - who they are to you 对你意义
+    - （外貌性格这些都可以提前准备）
+
+- What this object is
+  - appearance 外观
+    - simple, classic, elegant 手机电脑杯子kindle
+  - brand 品牌
+    - 公司 历史地位
+  - function/purpose 能做那些事
+
+- event
+  - purpose 目的 
+    - 毕业典礼  
+      - 庆祝人生历程，纪念美好时光，见证个人成长
+  - venue 场地
+    - environment 草坪/wedding 座位 花 宴席 这些素材都能复用
+  - attendees 参加者
+    - “人”的积累 复用
+
+- when you do/did sth 
+  - period 两年前
+  - exact time 某个周末早晨
+  - occasion 场合 具体事物 去哪旅游 高考毕业旅行
+
+- where you do/did sth
+  - relative location（先给一个模糊地点）
+  - exact place 
+  - near / far 地标建筑，或距离你
+  - how you get there 出行方式 骑车地铁飞机火车
+  - symbol / meaning 对你而言/对城市而言 有何特殊意义
+  - how you do/did sth  一个简单的事情/过程
+    - cause 起因
+    - process 经过
+    - result 结果
+
+- how you feel about sb? (positively)
+- ![](https://raw.githubusercontent.com/Tosfk/Image/main/20250425094425744.png)
+  - positive influence 正能量
+  - inspring 鼓舞我
+  - respect 敬佩他
+  - admire
+  - envy
+- (positively)
+- ![](https://raw.githubusercontent.com/Tosfk/Image/main/20250425094804408.png)
+  - dislike / loath 厌恶
+  - don‘t respect
+- 评价sth
+- ![](https://raw.githubusercontent.com/Tosfk/Image/main/20250425094909376.png)
+  - happy
+  - inspired
+  - **lucky**
+    - 我好幸运能遇到这种人/买到这种东西
+  - grateful
+
 # 5. Taking Notes
+做笔记
+1. 写 key words，写上义词，水果（香蕉苹果梨子），能打开思路补充细节
+2. 写上背的好词好句
+3. 不写完整句子，写思路
+4. 不用纠结拼写，可以写汉字符号
+
+## Example #1  
+**Describe a person who oftenhelps others.**  
+You should say:  
+- who this person is  
+- what this person does  
+- how this person often helps others  
+**and explain how you feel about them.**  
+笔记:
+小美  
+bff - first met - ruby-red （红唇）  
+straight As， honor roll优秀生名单   
+hardworking （努）  
+
+<br />
+
+children - pool rural  
+soup kitchen  
+lost kid - 哭 打电话，找前台，找到了，父母反应，他的感想  
+
+<br />
+
+loving， caring  
+respect  通用的  
+
+## Example #2 
+**Describe a place you visited on vacation and would like to recommend to others.**
+You should say:
+- where it is
+- when you went there
+- what you did there
+**and explain why you would like to recommend it to others.**  
+![](https://raw.githubusercontent.com/Tosfk/Image/main/20250425100429926.png)
