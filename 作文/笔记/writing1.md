@@ -57,4 +57,70 @@
 then,it's brainstorming time——
 选择话题：
 `Academic`： 能够让同学们找到学习的方向，学的更有热情和动力；或有更好的专业认知
-`Social communication`：学生们在工作和旅行中可以增强自身的交流能力、合作能力
+`Social communication`：学生们在工作和旅行中可以增强自身的交流能力、合作能力.衍生到学习
+`Physical and mental health`
+`Career development`
+`Life & work skills`
+
+## 提纲
+话题从应该工作和旅行出发，采用学业进步和社交技能作为两个正面观点，并且用身心健康建立一个让步拉回段落。
+- **Topic** - should travel or work
+- **Point 1** - academic development - witness future study with stronger motivation
+- **Point 2** - communication skills - practice comm skills - better comm with students and professors
+- **Point 3 & concession** - relax physically and mentally for better study
+
+practice 
+```
+School leavers go traveling or work for a period before they go directly to university.
+Are there more advantages or disadvantages on their study?
+```
+### P1-Topic:
+We cannot deny travelling or work before university might *break the continuity in study*, which leads many to believe that high school graduates shall attend university without any practical experience. However, in my opinion, as far as **academic development, communication skills, and health** are concerned, school graduates should travel or work before university for better results of latter higher education. (61 words)
+
+- 1.`break the continuity in study` 打破学习的连贯性
+- 预埋一个反方意见为最后的让步拉回做好准备，在最后部分让步拉回阶段反驳这一观点，来**增强全文的论证强度，提升Task Response**。
+- 若觉得预埋反方意见过于复杂，也可以直接陈述观点。
+
+### P2-Point 1
+First, students **obtain a better understanding in their future fields of study** through travelling or working. To be more specific, through an internship or full-time job, students *witness the true nature of their future majors* and are able to better *relative what they will learn to the reality*; meanwhile, traveling experience also enable students to see the application of their future study in the society, which helps them *realize the meaning of* their academic pursuit and career for a stronger motivation in study. (83 words)
+
+生词|意思
+---|---
+To be more specific|更具体地说
+internship|实习
+
+- 2.`witness the true nature of their future majors`  见证XX的本质
+- 3.`relative what they will learn to the reality` 把他们未来将学的(内容)和实际联系起来
+- 4.`realize the meaning of` 意识到XX的意义
+
+### P3-Point 2
+
+Second, the fact that **university study requires strong communication skills** indicates that students ought to expose themselves to real world before university. For instance, traveling experience *hones one's skills in communication* with those *from total different cultural backgrounds*, while work experience *develops one's skill in giving and receiving ideas, and working with others as a team*. **All these are essential skills for exchanging ideas with others and working on group projects in university**. (74 words)
+
+indicate|表明；显示；暗示；示意；象征；间接提及
+For instance|例如
+hone|磨练
+essential|基本的，必不可少的
+
+- 5.`hones one's skills in` 锻炼某人在XX方面的技能
+- 6.`from total different cultural backgrounds` 来自于完全不同的文化背景
+- 7.`develops one's skill in giving and receiving ideas, and working with others as a team` 开发某人在给出和接受意见以及团队合作方面的技能
+- 8.`exchanging ideas with others` 和别人交换意见
+
+此段落尽管开头输出观点的句式和上一段有所不同，但总体结构类似——平行讨论工作和学习，这样比较全面应题且凑字数。最后要把这些能力带回到大学学习中
+
+evaluation先把自己认为好或坏的一面先说清楚，若考试中时间紧张，则有先把正面观点写清楚说明白，对于缺点的反驳是锦上添花。不要强行完成整体框架而在段落内容上有重大缺失。
+
+反方观点是会打破大家学习的连续性，那反驳的观点就是这么做可以帮助大家放松身心，以更好的状态面对大学学习。
+
+### P4-Point 3
+
+Still, some might claim that a gap between high school and university breaks the continuity in study, *hindering student's focus and effectiveness in study*. However, **the practical experience, in the form of work or traveling, is also an excellent chance for students to relax both physically and mentally**, which better prepares them for a totally different academic environment in university. (60 words)
+
+In conclusion, work and traveling experience prepares students for their future academic pursuit, and it shall be strongly encouraged to high school graduates. (23 words)
+
+hinder|阻碍
+in the form of|用...的形式
+
+- 9.`hindering student's focus and effectiveness in study` 阻碍学生的专注和学习有效性。用分词作状语表示结果来秀语法
+- 10.`elax both physically and mentally` 身心放松
