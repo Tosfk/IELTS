@@ -157,14 +157,14 @@ p1 考官不能创造问题，不会追问
 What does XX mean?
 
 ##### Part2
-3-4 min, **1min for notes, 1-2 min to talk**，逼着自己说三分钟
-Can look at topic card and notes while speaking
-1分钟做笔记，1-2min回答
-可以边画笔记边回答
-考官不能收回问题卡，但不能换题
+3-4 min, **1min for notes, 1-2 min to talk**，逼着自己说三分钟  
+Can look at topic card and notes while speaking  
+1分钟做笔记，1-2min回答  
+可以边画笔记边回答  
+考官不能收回问题卡，但不能换题  
 
-话题卡——
-**Describe** a person who often helps others
+话题卡——  
+**Describe** a person who often helps others  
 You should say:
 - who this person is
 - what this person does
@@ -324,7 +324,7 @@ OMG, **my mouth is on fire**.
 
 #### Topic-related vocab
 Q: What's your favorite animal?  
-A: Well, l love cats, they're my favorite, they're so cute and **cuddly**. I love their pink little **paw pads**, and how they don't lettheir **claws** out when they know you mean no harm. l also love how they **rub against your legs**, **purring** like a motorboat and begging youto **pet** them. My heart melts.
+A: Well, l love cats, they're my favorite, they're so cute and **cuddly**. I love their pink little **paw pads**, and how they don't let their **claws** out when they know you mean no harm. l also love how they **rub against your legs**, **purring** like a motorboat and begging you to **pet** them. My heart melts.
 
 
 ### 3.4 Style and Collocation
